@@ -21,7 +21,7 @@ Un equipo de robots en Robocode diseñado para operar en conjunto mediante una *
 
 ---
 
-### **2. Fumate4 (Conecta 4 AI)**
+### **2. c4_The_Game (Conecta 4 AI)**
 #### **Descripción**
 Un jugador de Conecta 4 basado en **Minimax con poda Alfa-Beta** y una **heurística de evaluación de líneas**.
 
