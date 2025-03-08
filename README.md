@@ -1,6 +1,5 @@
 # AI_Games_Java
 
-## Descripción del Proyecto
 AI_Games_Java es una colección de implementaciones de inteligencia artificial para juegos de estrategia clásicos en Java. Este repositorio incluye agentes basados en algoritmos avanzados de búsqueda y heurísticas optimizadas para juegos como **Robocode, Conecta 4 y HEX**.
 
 Cada uno de estos proyectos utiliza técnicas como **Minimax con poda Alfa-Beta**, **heurísticas avanzadas** y **estrategias adaptativas** para mejorar el rendimiento y la toma de decisiones en entornos competitivos.
